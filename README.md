@@ -8,10 +8,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### some stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shunjizhan&count_private=true&show_icons=true&theme=vue&border_radius=18&custom_title=Recent%20Github%20Stats)](https://github-readme-stats.vercel.app/api?username=shunjizhan&count_private=true&show_icons=true&theme=vue&border_radius=18&custom_title=Recent%20Github%20Stats)
+### Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shunjizhan&count_private=true&show_icons=true&theme=buefy&border_radius=18&custom_title=Recent%20Github%20Stats)](https://github-readme-stats.vercel.app/api?username=shunjizhan&count_private=true&show_icons=true&theme=buefy&border_radius=18&custom_title=Recent%20Github%20Stats)
 
-[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shunjizhan&theme=vue&border_radius=18)](https://github-readme-stats.vercel.app/api/top-langs/?username=shunjizhan&theme=vue&border_radius=18)
+[![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=polkaji&layout=compact&langs_count=20&theme=buefy&custom_title=Recent%20Coding%20Stats&border_radius=18)](https://github-readme-stats.vercel.app/api/wakatime?username=polkaji&layout=compact&langs_count=20&theme=buefy&custom_title=Recent%20Coding%20Stats&border_radius=18)
 
-[![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=polkaji&layout=compact&langs_count=20&theme=vue&custom_title=Recent%20Coding%20Stats&border_radius=18)](https://github-readme-stats.vercel.app/api/wakatime?username=polkaji&layout=compact&langs_count=20&theme=vue&custom_title=Recent%20Coding%20Stats&border_radius=18)
-
+### Repos
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shunjizhan&repo=react-folder-tree&border_radius=18&theme=buefy)](https://github.com/shunjizhan/react-folder-tree)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shunjizhan&repo=crypto-portfolio-viewer&border_radius=18&theme=buefy)](https://github.com/shunjizhan/crypto-portfolio-viewer)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shunjizhan&repo=use-tree-state&border_radius=18&theme=buefy)](https://github.com/shunjizhan/use-tree-state)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shunjizhan&repo=all-candlestick-pattern-indicators&border_radius=18&theme=buefy)](https://github.com/shunjizhan/all-candlestick-pattern-indicators)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shunjizhan&repo=frontend-interview-gotchas&border_radius=18&theme=buefy)](https://github.com/shunjizhan/frontend-interview-gotchas)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shunjizhan&repo=leetcode-js-py&border_radius=18&theme=buefy)](https://github.com/shunjizhan/leetcode-js-py)
