@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**shunjizhan/shunjizhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there 👋 I am Shunji Zhan
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +7,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### some stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shunjizhan&count_private=true&show_icons=true&theme=vue&border_radius=18&custom_title=Recent%20Github%20Stats)](https://github-readme-stats.vercel.app/api?username=shunjizhan&count_private=true&show_icons=true&theme=vue&border_radius=18&custom_title=Recent%20Github%20Stats)
+
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shunjizhan&theme=vue&border_radius=18)](https://github-readme-stats.vercel.app/api/top-langs/?username=shunjizhan&theme=vue&border_radius=18)
+
+[![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=polkaji&layout=compact&langs_count=20&theme=vue&custom_title=Recent%20Coding%20Stats&border_radius=18)](https://github-readme-stats.vercel.app/api/wakatime?username=polkaji&layout=compact&langs_count=20&theme=vue&custom_title=Recent%20Coding%20Stats&border_radius=18)
+
