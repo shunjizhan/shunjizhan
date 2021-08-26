@@ -1,22 +1,14 @@
-### Hi there 👋 I am Shunji Zhan
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello 👋 
+My name is ***Shunji Zhan***, and I am a...
+- ⚡  &nbsp;Frontend Developer
+- 🥰 &nbsp;JavaScript Lover
+- 🌟 &nbsp;Crypto Trader
+- ⛏️ &nbsp;DEFI miner
+- 🔥 &nbsp;Blockchain Investor
+- 🎓 &nbsp;Lifelong Learner
 
-### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shunjizhan&count_private=true&show_icons=true&theme=buefy&border_radius=18&custom_title=Recent%20Github%20Stats)](https://github-readme-stats.vercel.app/api?username=shunjizhan&count_private=true&show_icons=true&theme=buefy&border_radius=18&custom_title=Recent%20Github%20Stats)
+<br>
 
-[![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=polkaji&layout=compact&langs_count=20&theme=buefy&custom_title=Recent%20Coding%20Stats&border_radius=18)](https://github-readme-stats.vercel.app/api/wakatime?username=polkaji&layout=compact&langs_count=20&theme=buefy&custom_title=Recent%20Coding%20Stats&border_radius=18)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shunjizhan&count_private=true&show_icons=true&theme=vue&border_radius=18&custom_title=Recent%20Github%20Stats)](https://github-readme-stats.vercel.app/api?username=shunjizhan&count_private=true&show_icons=true&theme=vue&border_radius=18&custom_title=Recent%20Github%20Stats)
 
-### Repos
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shunjizhan&repo=react-folder-tree&border_radius=18&theme=buefy)](https://github.com/shunjizhan/react-folder-tree)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shunjizhan&repo=crypto-portfolio-viewer&border_radius=18&theme=buefy)](https://github.com/shunjizhan/crypto-portfolio-viewer)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shunjizhan&repo=use-tree-state&border_radius=18&theme=buefy)](https://github.com/shunjizhan/use-tree-state)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shunjizhan&repo=all-candlestick-pattern-indicators&border_radius=18&theme=buefy)](https://github.com/shunjizhan/all-candlestick-pattern-indicators)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shunjizhan&repo=frontend-interview-gotchas&border_radius=18&theme=buefy)](https://github.com/shunjizhan/frontend-interview-gotchas)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shunjizhan&repo=leetcode-js-py&border_radius=18&theme=buefy)](https://github.com/shunjizhan/leetcode-js-py)
+[![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=polkaji&layout=compact&langs_count=14&theme=buefy&custom_title=Recent%20Coding%20Stats&border_radius=18)](https://github-readme-stats.vercel.app/api/wakatime?username=polkaji&layout=compact&langs_count=14&theme=buefy&custom_title=Recent%20Coding%20Stats&border_radius=18)
