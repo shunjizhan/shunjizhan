@@ -1,5 +1,7 @@
 # Hello 👋 
-My name is ***Shunji Zhan***, and I am a...
+My name is ***Shunji Zhan***
+
+I am a...
 - ⚡  &nbsp;Frontend Developer
 - 🥰 &nbsp;JavaScript Lover
 - 🌟 &nbsp;Crypto Trader
